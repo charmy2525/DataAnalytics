@@ -2,19 +2,19 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0001,2020,3,Female,18,0,S,Urban,Apartment,36,Wifi,15000,High School,S,S1,2,1.75,1.75,1.75,4,Alone,Together,Bachelor,Master,Mother,Private,Business,2000000,1.5,1.5,2,1.5,0.5,1.5,2,1.5,0,1,2,1.78,No,No,Medium
 0002,2020,3,MAle,18,18,BKK,Urban,Home,5,Wifi,11000,High School,BKK,BKK9,3,3,3.5,2.75,3,Parents,Together,Master,Doctoral,Father,Private,Private,1280000,3,2.5,3,2.5,1.5,3.5,3.5,2.5,4,3,1,2.86,No,No,No
 0003,2020,3,mAlE,18,18,BKK,Urban,Apartment,76,Mobile,15000,High School,BKK,BKK2,3,2.5,3,2.75,4,Alone,Together,Bachelor,Bachelor,Father,Freelance,Freelance,3490000,3,3.5,4,3,2.5,2.5,3,4,3,2.5,2,3.2,No,No,No
-0004,2020,1,Male,18,3,BKK,Urban,Home,77,Wifi,12000,Vocational School,BKK,BKK6,2.25,2,2.5,2.75,3,Parents,Together,Primary,High School,Mother,Freelance,Private,560000,2,1.5,2,2.5,2,1.5,2.5,2,2,1.5,2,2.2,No,No,Medium
-0005,2020,,Female,18,18,BKK,Urban,Home,71,Wifi,14000,Vocational School,BKK,BKK2,2,1.75,2,2,4,Parents,Together,Bachelor,Master,Mother,Freelance,Freelance,700000,1.5,1.5,1,2,1.5,1,2.5,1.5,1.5,2.5,3,2.19,No,No,High
-0006,2020,3,Female,19,4,S,Urban,Apartment,57,Wifi,15000,High School,BKK,BKK1,3,2.75,3.5,2.75,3,Alone,Together,Master,Doctoral,Father,Public,Private,2200000,2.5,2.5,2.5,3,3,1,2.5,3,1.5,2.5,0,2.36,No,No,High
+0004,2020,1,Male,18,3,BKK,Urban,Home,77,Wi fi,12000,Vocational School,BKK,BKK6,2.25,2,2.5,2.75,3,Parents,Together,Primary,High School,Mother,Freelance,Private,560000,2,1.5,2,2.5,2,1.5,2.5,2,2,1.5,2,2.2,No,No,Medium
+0005,2020,,Female,18,18,BKK,Urban,Home,71,Wi-fi,14000,Vocational School,BKK,BKK2,2,1.75,2,2,4,Parents,Together,Bachelor,Master,Mother,Freelance,Freelance,700000,1.5,1.5,1,2,1.5,1,2.5,1.5,1.5,2.5,3,2.19,No,No,High
+0006,2020,3,Female,19,4,S,Urban,Apartment,57,Wi-fi,15000,High School,BKK,BKK1,3,2.75,3.5,2.75,3,Alone,Together,Master,Doctoral,Father,Public,Private,2200000,2.5,2.5,2.5,3,3,1,2.5,3,1.5,2.5,0,2.36,No,No,High
 0007,2020,2,Female,18,18,BKK,Urban,Apartment,16,Mobile,11000,High School,BKK,BKK2,3.25,3,3.5,2.25,3,Roommates,Together,Master,Master,Father,Freelance,Public,1330000,3,3,3,3,2,1.5,3,3,2,3.5,1,2.83,No,No,High
 0007,,2,Female,18,18,BKK,Urban,Apartment,16,Mobile,11000,High School,BKK,BKK2,3.25,3,3.5,2.25,3,Roommates,Together,Master,Master,Father,Freelance,Public,1330000,3,3,3,3,2,1.5,3,3,2,3.5,1,2.83,No,No,High
 0007,2020,2,Female,18,18,BKK,Urban,Apartment,16,Mobile,11000,High School,BKK,BKK2,3.25,3,3.5,2.25,3,Roommates,Together,Master,Master,Father,Freelance,Public,1330000,3,3,3,3,2,1.5,3,3,2,3.5,1,2.83,No,No,High
 0007,2020,2,Female,18,18,,,Apartment,16,Mobile,11000,High School,BKK,BKK2,3.25,3,3.5,2.25,3,Roommates,Together,Master,Master,Father,Freelance,Public,1330000,3,3,3,3,2,1.5,3,3,2,3.5,1,2.83,No,No,High
 0007,2020,2,Female,18,18,BKK,Urban,Apartment,16,Mobile,11000,High School,BKK,BKK2,3.25,3,3.5,2.25,3,Roommates,Together,Master,Master,Father,Freelance,Public,1330000,3,3,3,3,2,1.5,3,3,2,3.5,1,2.83,No,No,High
-0008,2020,2,Female,18,3,BKK,Urban,Apartment,79,Wifi,15000,Vocational School,BKK,BKK8,2.75,3.25,2.5,2.5,4,Alone,Together,Doctoral,Doctoral,Father,Public,Public,1770000,2.5,3,3,3,3.5,0.5,3,2.5,1.5,2.5,2.5,2.52,No,No,Medium
-0009,2020,2,Female,18,3,,Urban,Home,638,Wifi,12000,High School,BKK,BKK5,1.5,1.75,1.75,1.75,3,Parents,Together,Doctoral,Master,Father,Private,Private,850000,1.5,1,2,2,2,1.5,2,2,0.5,1,2,1.9,No,No,High
+0008,2020,2,Female,18,3,BKK,Urban,Apartment,79,Wi-fi,15000,Vocational School,BKK,BKK8,2.75,3.25,2.5,2.5,4,Alone,Together,Doctoral,Doctoral,Father,Public,Public,1770000,2.5,3,3,3,3.5,0.5,3,2.5,1.5,2.5,2.5,2.52,No,No,Medium
+0009,2020,2,Female,18,3,,Urban,Home,638,Wi fi,12000,High School,BKK,BKK5,1.5,1.75,1.75,1.75,3,Parents,Together,Doctoral,Master,Father,Private,Private,850000,1.5,1,2,2,2,1.5,2,2,0.5,1,2,1.9,No,No,High
 0010,2020,1,Female,19,19,BKK,Urban,Home,81,Mobile,64000,Vocational School,BKK,BKK9,3,2.75,3,2.25,4,Parents,Together,Bachelor,Master,Father,Business,Business,1440000,3,2.5,3,3.5,3.5,3,3.5,3.5,2.5,3,1,2.99,No,No,Medium
 0011,2020,2,Female,18,18,BKK,Urban,Apartment,90,WIFI,15000,High School,BKK,BKK3,2.75,3.25,1.75,3.25,4,Alone,Together,Doctoral,Master,Mother,Business,Business,990000,2.5,2,2,2,1.5,1.5,2.5,2.5,2.5,2.5,1,2.13,No,No,Low
-0012,2020,2,Female,20,20,BKK,Urban,Home,73,Wifi,15000,Vocational School,BKK,BKK1,2.75,3.25,3.25,2,3,Parents,Together,Bachelor,Master,Mother,Freelance,Private,1970000,2,2,1.5,2,2.5,1,2.5,2,1,3,0,2.03,No,No,High
+0012,2020,2,Female,20,20,BKK,Urban,Home,73,W ifi,15000,Vocational School,BKK,BKK1,2.75,3.25,3.25,2,3,Parents,Together,Bachelor,Master,Mother,Freelance,Private,1970000,2,2,1.5,2,2.5,1,2.5,2,1,3,0,2.03,No,No,High
 0013,2020,2,Female,18,3,BKK,Urban,Home,16,Wifi,15000,,BKK,BKK3,3.25,2.75,3.25,3.5,2,Mom or Dad,Apart,Doctoral,Doctoral,Mother,Private,Private,3560000,3,3.5,4,3.5,3,2,3.5,3,2.5,3.5,4,3.3,No,No,Medium
 0014,2020,2,Male,19,19,BKK,Urban,Apartment,50,Wifi,14000,High School,BKK,BKK1,2.75,1.5,2.75,1.5,2,Alone,Apart,Bachelor,Bachelor,Mother,Freelance,Private,1000000,2.5,2,2,2.5,2.5,1,3,3,2.5,2.5,3.5,2.72,No,No,Medium
 0015,2020,3,Female,18,0,E,Urban,Apartment,7,Mobile,15000,High School,E,E3,2.5,2,2.5,2.5,3,Alone,Together,Doctoral,Doctoral,Father,Freelance,Public,2000000,2.5,2,3,2.5,1.5,2.5,2.5,3,1.5,3,3,2.5,No,No,Medium
@@ -135,7 +135,7 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0128,,3,Female,18,0,E,Urban,Apartment,10,Wifi,15000,High School,E,E1,1.5,1.75,1.75,1.75,3,Roommates,Together,Master,Master,Mother,Freelance,Freelance,1140000,1,1,1.5,1,1,1,1,0.5,1,2,1.5,1.68,No,No,High
 0129,2020,1,Male,18,18,BKK,Urban,Home,13,Wifi,7000,Vocational School,BKK,BKK7,3.5,3.25,3.25,2.5,4,Parents,Together,Bachelor,Vocational,Father,Public,Freelance,830000,3,4,4,3,3,2.5,2.5,3.5,2,3.5,1,2.91,No,Yes,Medium
 0130,2020,2,mAlE,18,18,BKK,Urban,Apartment,743,Mobile,13000,High School,BKK,BKK1,2.25,2.25,2,2.75,3,Alone,Together,Doctoral,Doctoral,Father,Business,Public,1020000,2,2.5,3,2,1,1.5,2,2,1.5,1.5,3,2.39,No,No,High
-0131,2020,3,Male,,0,E,Urban,Apartment,41,Wifi,15000,High School,E,E1,3,2.5,3,2.75,3,Alone,Together,Master,Master,Mother,Business,Business,2360000,3,3.5,4,3,4,3.5,2,3,1,2,4,3.06,Yes,No,Medium
+0131,2020,3,Male,,0,E,Urban,Apartment,41,Wi fi,15000,High School,E,E1,3,2.5,3,2.75,3,Alone,Together,Master,Master,Mother,Business,Business,2360000,3,3.5,4,3,4,3.5,2,3,1,2,4,3.06,Yes,No,Medium
 0132,2020,3,Male,19,4,E,Urban,Apartment,52,Wifi,14000,High School,E,E1,1.75,2,1.75,2.5,2,Roommates,Apart,Master,Master,Mother,Private,Public,1600000,1,1,1,1,1,0,1,1,1,1.5,2,1.49,No,No,Medium
 0133,2020,2,,18,,BKK,Urban,Home,79,Wifi,15000,High School,BKK,BKK7,3,2.5,2.75,3.5,4,Parents,Together,Doctoral,Master,Mother,Public,Freelance,3000000,3,2.5,2.5,3.5,3,1.5,3.5,4,1.5,3.5,2.5,3.05,No,No,High
 0134,2020,3,Female,18,0,E,,Apartment,60,Mobile,15000,High School,E,E3,2.75,3,3.5,2.75,3,Alone,Apart,Doctoral,Doctoral,Father,Freelance,Business,680000,2.5,2,2.5,3,2.5,2,3,2.5,1.5,2.5,4,2.69,No,No,Low
@@ -243,7 +243,7 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0231,2020,,Male,18,18,BKK,Urban,Home,33,Wifi,15000,High School,BKK,BKK9,3.25,3.25,3.75,2,3,Parents,Together,Bachelor,Master,Father,Public,Private,3220000,3.5,3.5,4,3.5,3.5,4,3.5,4,3,4,2.5,3.61,No,No,Medium
 0232,2020,3,,18,0,N,Urban,Apartment,56,Mobile,13000,High School,N,N7,1.5,2,2,1.75,3,Alone,Together,Master,Doctoral,Mother,Freelance,Public,1570000,1.5,1.5,2,2,2.5,1,2.5,1.5,1.5,1.5,2.5,2.07,No,No,High
 0233,2020,2,mAlE,18,0,S,Urban,Apartment,34,Mobile,15000,High School,S,S9,1.75,2,2.25,1.75,3,Alone,Together,Bachelor,Bachelor,Mother,Freelance,Freelance,610000,1.5,0.5,0,2,2,1,2,1.5,1.5,1,3.5,1.85,No,No,High
-0234,2020,2,Female,18,18,BKK,Urban,Home,6,Wifi,14000,Vocational School,BKK,BKK7,2.5,2.25,2,2.5,3,Parents,Together,Master,Doctoral,Mother,Business,Business,750000,2,2,2.5,2.5,2.5,2.5,1.5,2.5,2,1.5,2.5,2.52,No,No,Low
+0234,2020,2,Female,18,18,BKK,Urban,Home,6,Wi-fi,14000,Vocational School,BKK,BKK7,2.5,2.25,2,2.5,3,Parents,Together,Master,Doctoral,Mother,Business,Business,750000,2,2,2.5,2.5,2.5,2.5,1.5,2.5,2,1.5,2.5,2.52,No,No,Low
 0235,2020,2,Female,,18,BKK,Urban,Home,31,Wifi,10000,Vocational School,BKK,BKK3,2.25,2.75,2,2,3,Parents,Together,Doctoral,Master,Mother,Public,Private,1010000,2,2,3.5,2,2,1.5,1.5,3,1.5,2,3,2.34,No,No,Medium
 0236,2020,2,Female,18,18,BKK,Urban,Home,43,Wifi,10000,Vocational School,BKK,BKK1,2,3.25,2.5,2.25,4,Parents,Together,Master,Bachelor,Mother,Business,Public,1220000,1.5,2,2.5,2.5,3,0.5,1.5,2.5,1,1.5,1.5,2.13,No,No,Low
 0237,2020,2,mAlE,18,18,,Urban,Home,53,Wifi,12000,,BKK,BKK2,2.75,3.25,3,3,3,Parents,Together,Master,Master,Mother,Private,Business,1380000,2,2.5,2.5,2,2.5,1,2,2,1,2.5,3,2.35,No,Yes,Low
@@ -449,12 +449,12 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0432,2019,3,Male,18,,E,Urban,Apartment,5,Wifi,8000,High School,E,E2,1.75,1.75,2,2,3,Alone,Apart,Vocational,Vocational,Mother,Public,Freelance,370000,1.5,1,1.5,1.5,1.5,1.5,1.5,1,1.5,1,2,1.72,No,No,High
 0433,2019,2,Male,18,18,BKK,Urban,Apartment,742,Mobile,11000,High School,BKK,BKK9,3.25,3.75,1.75,2,3,Alone,Together,Doctoral,Doctoral,Mother,Business,Public,1280000,3,3,3.5,3.5,3,1.5,3,3,3,3,4,3.13,No,No,Medium
 0434,2019,1,Male,18,3,BKK,Urban,Home,12,Wifi,14000,Vocational School,BKK,BKK6,1.5,1.75,2.25,1.75,3,Parents,Together,Doctoral,Master,Father,Private,Private,1720000,1.5,1,1.5,2,2,2,2,1.5,1.5,2,3,2.19,No,No,Medium
-0435,2019,1,Female,18,3,BKK,Urban,Home,72,Wifi,6000,Vocational School,BKK,BKK8,2.25,2.25,2,1.5,3,Mom or Dad,Apart,Master,Master,Mother,Business,Business,680000,2,2,1.5,2,1.5,1,2.5,2,1,3.5,3.5,2.31,No,No,No
+0435,2019,1,Female,18,3,BKK,Urban,Home,72,Wi fi,6000,Vocational School,BKK,BKK8,2.25,2.25,2,1.5,3,Mom or Dad,Apart,Master,Master,Mother,Business,Business,680000,2,2,1.5,2,1.5,1,2.5,2,1,3.5,3.5,2.31,No,No,No
 0436,2019,1,Male,19,19,BKK,Urban,Home,27,Wifi,15000,Vocational School,BKK,BKK2,3.5,3.25,3.25,3.75,3,Parents,Together,Bachelor,Master,Father,Freelance,Freelance,3460000,3,3,3.5,3,2.5,2.5,3,4,3,2.5,4,3.13,Yes,No,Medium
-0437,2019,2,mAlE,18,3,E,Urban,,28,Wifi,4000,High School,E,E7,3.5,3.75,2.75,3.5,4,Alone,Together,Primary,Primary,Mother,Public,Business,150000,3,3.5,3.5,3,3.5,4,3.5,3,1.5,3,0.5,3.06,No,No,Medium
-0438,2019,2,Male,18,18,BKK,Urban,Home,78,Mobile,6000,Vocational School,BKK,BKK2,2.5,2.75,3,2.75,4,Parents,Together,Master,Doctoral,Father,Private,Private,740000,2,2.5,2.5,2,2,3,2.5,2,1.5,2,2.5,2.36,No,No,No
-0439,2019,2,Female,18,18,BKK,Urban,Home,41,Mobile,15000,High School,BKK,BKK1,3.25,2,3.25,3.75,4,Parents,Together,Bachelor,Bachelor,Mother,Public,Business,2330000,3,2.5,3.5,3,3,1.5,3,3.5,3,4,3,2.94,No,No,Low
-0440,2019,2,Male,19,19,BKK,Urban,Home,53,Mobile,9000,Vocational School,BKK,BKK5,1.75,1.75,2,2.5,4,Parents,Together,Bachelor,Bachelor,Father,Private,Private,360000,1.5,1,1,1.5,2,2.5,1.5,1.5,1,1.5,2,1.85,No,No,Medium
+0437,2019,2,mAlE,18,3,E,Urban,,28,Wi fi,4000,High School,E,E7,3.5,3.75,2.75,3.5,4,Alone,Together,Primary,Primary,Mother,Public,Business,150000,3,3.5,3.5,3,3.5,4,3.5,3,1.5,3,0.5,3.06,No,No,Medium
+0438,2019,2,Male,18,18,BKK,Urban,H me,78,Mobile,6000,Vocational School,BKK,BKK2,2.5,2.75,3,2.75,4,Parents,Together,Master,Doctoral,Father,Private,Private,740000,2,2.5,2.5,2,2,3,2.5,2,1.5,2,2.5,2.36,No,No,No
+0439,2019,2,Female,18,18,BKK,Urban,Ho me,41,Mobile,15000,High School,BKK,BKK1,3.25,2,3.25,3.75,4,Parents,Together,Bachelor,Bachelor,Mother,Public,Business,2330000,3,2.5,3.5,3,3,1.5,3,3.5,3,4,3,2.94,No,No,Low
+0440,2019,2,Male,19,19,BKK,Urban,Hom e,53,Mobile,9000,Vocational School,BKK,BKK5,1.75,1.75,2,2.5,4,Parents,Together,Bachelor,Bachelor,Father,Private,Private,360000,1.5,1,1,1.5,2,2.5,1.5,1.5,1,1.5,2,1.85,No,No,Medium
 0441,2019,2,Male,18,18,BKK,Urban,Apartment,672,Mobile,11000,Vocational School,BKK,BKK6,2,1.75,2.5,1.75,3,Roommates,Together,Primary,Primary,Mother,Freelance,Private,580000,1.5,1.5,2,1,1.5,1,1.5,2,1,2,1,1.76,No,No,High
 0442,2019,2,Female,18,0,E,Urban,Apartment,86,Mobile,7000,High School,E,E9,1.75,1.75,1.75,2.5,2,Alone,Apart,Master,Doctoral,Mother,Public,Freelance,640000,1.5,1,1,2,3,0,2,1.5,0,2,2.5,1.73,No,No,High
 0443,2019,3,Male,18,3,S,Urban,Apartment,5,Wifi,15000,Vocational School,S,S9,2.75,3,2.5,3,3,Alone,Together,Doctoral,Doctoral,Mother,Public,Business,2560000,2.5,2.5,2.5,3,3,3.5,3,2.5,2,3,2.5,2.96,No,No,High
@@ -465,7 +465,7 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0448,2019,2,Male,18,0,NE,Rural,Apartment,87,Mobile,4000,High School,BKK,BKK7,2.75,2.5,2.5,3.5,4,Roommates,Together,Bachelor,Master,Father,Freelance,Freelance,150000,2.5,1.5,2,2.5,3,1,2.5,2.5,2.5,3,2,2.59,No,No,No
 0449,2019,2,,,18,BKK,Urban,Home,32,Mobile,10000,Abroad,BKK,BKK8,1.75,1.75,1.75,2,3,Parents,Together,Doctoral,Doctoral,Mother,Freelance,Freelance,1160000,1.5,1.5,2.5,2,1.5,0.5,1,1,0,2,1,1.55,No,No,Medium
 0450,2019,3,Female,18,3,,Rural,Home,37,Wifi,15000,High School,BKK,BKK5,2.5,3,2.75,3,4,Parents,Together,Doctoral,Doctoral,Father,Business,Public,1250000,2.5,2.5,2.5,3,3,3.5,3,2.5,2,2.5,2.5,2.84,Yes,No,High
-0451,2019,2,mAlE,18,18,BKK,Urban,Home,60,Wifi,9000,Vocational School,BKK,BKK10,2,2,2,1.75,3,Parents,Together,Doctoral,Doctoral,Mother,Private,Private,1080000,2,1.5,2,2,2.5,3,2,2,3,2.5,1.5,2.26,No,No,Medium
+0451,2019,2,mAlE,18,18,BKK,Urban,Home.,60,Wifi,9000,Vocational School,BKK,BKK10,2,2,2,1.75,3,Parents,Together,Doctoral,Doctoral,Mother,Private,Private,1080000,2,1.5,2,2,2.5,3,2,2,3,2.5,1.5,2.26,No,No,Medium
 0452,2019,2,Male,18,3,E,Urban,Apartment,18,Mobile,7000,High School,E,E1,1.75,1.75,3.25,1.75,2,Alone,Apart,Doctoral,Doctoral,Mother,Business,Private,780000,1.5,1.5,3,2,2,2,1.5,1,1,1.5,2.5,1.93,No,No,No
 0453,,2,Female,18,0,NE,,Apartment,108,Wifi,14000,High School,BKK,BKK9,2.5,2,2.75,3,3,Roommates,Together,Master,Bachelor,Father,Freelance,Freelance,1650000,2.5,2,2.5,2.5,2,1,2.5,2.5,2.5,3,4,2.64,No,No,Low
 0454,2019,2,Male,19,4,BKK,Urban,Home,51,WIFI,7000,Vocational School,BKK,BKK10,3,2.75,3,2.5,3,Parents,Together,High School,Primary,Father,Private,Public,510000,2.5,2.5,4,2,2.5,1.5,2.5,2.5,3.5,4,1,2.63,No,Yes,Low
@@ -478,7 +478,7 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0461,2019,2,Male,18,18,BKK,Urban,Home,56,WIFI,10000,Vocational School,BKK,BKK6,3,2.75,3.5,2.75,4,Parents,Together,Doctoral,Doctoral,Father,Public,Private,1120000,3,3.5,4,3.5,3.5,2.5,3,3.5,2,3,1.5,3.08,No,No,Low
 0462,2019,1,Female,,19,BKK,Urban,Home,654,Wifi,15000,,BKK,BKK3,3,3,3.25,3.25,4,Parents,Together,Master,Bachelor,Father,Freelance,Business,3290000,2.5,2.5,2.5,3,3,2,3,2.5,3,3,4,2.95,No,No,No
 0463,2019,2,Male,19,19,BKK,Urban,Home,56,Wifi,8000,High School,BKK,BKK7,2.25,1.75,2.75,2.75,3,Parents,Together,Doctoral,Doctoral,Father,Private,Business,940000,2,2.5,3,2,2,2.5,2,1.5,2,2,2,2.36,No,Yes,Medium
-0464,2019,2,Male,19,4,S,Urban,,55,Wifi,10000,High School,S,S4,3.25,3.25,3,3.25,3,Alone,Together,Bachelor,Bachelor,Father,Business,Freelance,730000,3,3,3,3,3.5,2.5,3,2.5,2,3,2.5,3.01,No,No,No
+0464,2019,2,Male,19,4,S,Urban,,55,Wi.fi,10000,High School,S,S4,3.25,3.25,3,3.25,3,Alone,Together,Bachelor,Bachelor,Father,Business,Freelance,730000,3,3,3,3,3.5,2.5,3,2.5,2,3,2.5,3.01,No,No,No
 0465,2019,2,mAlE,,4,BKK,Urban,Apartment,47,Mobile,12000,Vocational School,BKK,BKK3,3,3,2.75,2.75,4,Alone,Together,High School,Vocational,Father,Business,Freelance,470000,3,3,3.5,2.5,2.5,1,3,2.5,3,3,1.5,2.73,No,No,High
 0466,2019,2,Male,18,18,BKK,Urban,Home,90,Wifi,15000,High School,BKK,BKK10,3.25,3.25,2.5,3.25,3,Parents,Together,Master,Master,Father,Public,Public,1980000,3,3.5,4,3,3,2.5,3,3,3.5,3.5,2,3.25,Yes,No,Medium
 0467,2019,3,Male,18,3,S,Urban,Apartment,90,Wifi,15000,High School,S,S1,2.75,2.25,3,2.5,4,Roommates,Together,Bachelor,Vocational,Father,Business,Public,2560000,2.5,3,4,3,3,2,3,2.5,2,2.5,3,2.97,Yes,No,No
@@ -511,12 +511,12 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0494,2019,2,Female,18,3,BKK,Urban,,59,Wifi,7000,Vocational School,BKK,BKK10,2,2,1.5,3,3,Parents,Together,High School,Primary,Father,Public,Business,270000,2,1.5,2.5,2,1.5,2,1.5,2,1.5,3,3,2.29,No,No,Medium
 0495,,3,mAlE,18,0,S,Urban,Home,79,Wifi,7000,High School,S,S10,1.5,1.75,1.75,2,4,Parents,Together,Doctoral,Doctoral,Mother,Private,Public,680000,1,1,2,1.5,1.5,0.5,1.5,1.5,0.5,1,3,1.74,No,No,High
 0496,2019,1,mAlE,18,3,BKK,Urban,Apartment,46,Mobile,10000,Vocational School,BKK,BKK1,3.25,3.75,3.75,3,3,Roommates,Together,Doctoral,Doctoral,Father,Freelance,Freelance,620000,3,2.5,2.5,3.5,3,2.5,2.5,3,2.5,3.5,2.5,2.85,Yes,No,Medium
-0497,2019,2,,18,18,BKK,Urban,Home,21,WIFI,15000,Vocational School,BKK,BKK8,1.5,1.75,1.75,1.75,2,Mom or Dad,Apart,Bachelor,Master,Mother,Public,Business,1920000,1,1,1.5,1,0.5,1,1,0.5,0,1.5,2,1.49,No,No,Medium
+0497,2019,2,,18,18,BKK,Urban,Home,21,WOFO,15000,Vocational School,BKK,BKK8,1.5,1.75,1.75,1.75,2,Mom or Dad,Apart,Bachelor,Master,Mother,Public,Business,1920000,1,1,1.5,1,0.5,1,1,0.5,0,1.5,2,1.49,No,No,Medium
 0498,2019,1,Female,18,18,BKK,Urban,Home,65,Wifi,14000,Vocational School,BKK,BKK5,3.5,3,3,3,2,Mom or Dad,Apart,Doctoral,Master,Mother,Business,Business,1670000,3,3,3.5,3,2.5,1.5,2.5,3,3,3.5,3,2.95,Yes,No,High
 0499,2019,2,Male,18,3,NE,Rural,Apartment,5,Wifi,6000,High School,NE,NE9,1.5,2,1.75,1.75,3,Alone,Together,Doctoral,Doctoral,Mother,Business,Private,700000,1,0.5,1,1,1,0,1,0.5,1,1,2.5,1.33,No,No,Low
 0500,2019,2,Female,18,18,BKK,Urban,Home,70,Wifi,15000,Vocational School,BKK,BKK7,2.5,2,2.25,2.25,3,Parents,Together,Bachelor,Bachelor,Father,Public,Private,2110000,2,2,2.5,1.5,0.5,2,2.5,2,1,2.5,2,1.99,No,No,Medium
 0501,,3,mAlE,19,0,E,Urban,Apartment,86,Wifi,12000,Vocational School,E,E8,2.25,2,1.75,2.75,3,Alone,Together,Bachelor,Master,Father,Business,Business,1130000,2,2.5,2.5,2,2.5,2,1.5,2.5,2,2,1,2.15,No,No,Low
-0502,,,Male,18,18,BKK,Urban,Home,23,WIFI,15000,Vocational School,BKK,BKK7,2.5,3,3,3.5,3,Parents,Together,Master,Bachelor,Father,Private,Freelance,1820000,2.5,2.5,2.5,3.5,4,2,3,2.5,1,3,2,2.85,No,No,Medium
+0502,,,Male,18,18,BKK,Urban,Home,23,WIFO,15000,Vocational School,BKK,BKK7,2.5,3,3,3.5,3,Parents,Together,Master,Bachelor,Father,Private,Freelance,1820000,2.5,2.5,2.5,3.5,4,2,3,2.5,1,3,2,2.85,No,No,Medium
 0503,2019,2,,18,0,,Urban,Apartment,12,Mobile,9000,High School,NE,NE10,1.75,1.75,2,1.75,3,Alone,Together,Primary,High School,Father,Business,Freelance,590000,1.5,0.5,2,1.5,2.5,1,2,1.5,1.5,2,2.5,2.11,No,No,Low
 0504,2019,2,Male,18,18,,Urban,Home,93,Wifi,12000,High School,BKK,BKK1,2,2,2.5,1.75,4,Parents,Together,Bachelor,Bachelor,Father,Business,Public,1070000,1.5,1,2,2,2.5,1,1.5,1,1,0.5,1,1.68,No,No,No
 0505,2019,2,,,18,BKK,Urban,Home,87,Wifi,13000,Vocational School,BKK,BKK1,1.5,1.75,1.75,1.5,4,Parents,Together,Bachelor,Vocational,Father,Business,Public,890000,1.5,2,3.5,2,2.5,1,1.5,1.5,1.5,2,2,2.28,No,No,High
@@ -599,13 +599,13 @@ Student_ID,Year_of_Entry,TCAS_channels_,Gender,Age,Years_Living_in_BKK,Hometown 
 0581,,3,Male,19,0,NE,Urban,Apartment,80,Wifi,15000,High School,NE,NE6,3,3.25,3.25,3.5,4,Alone,Together,Master,Doctoral,Father,Freelance,Freelance,1910000,3,2.5,3,3,3.5,3,3,2.5,2.5,3,1,2.76,Yes,No,High
 0582,2019,1,Male,18,18,BKK,Urban,Home,22,Wifi,12000,Vocational School,BKK,BKK5,3.25,3.5,3.5,2.75,4,Parents,Together,Bachelor,Master,Mother,Freelance,Private,1470000,3,2.5,2.5,3,3.5,3,3,3,2,3,2.5,2.78,No,No,Medium
 0583,2019,2,Male,18,18,BKK,Urban,Home,18,Wifi,101000,Vocational School,BKK,BKK8,2.25,1.75,2.5,1.75,3,Mom or Dad,Apart,Doctoral,Doctoral,Father,Freelance,Public,740000,2,2,2,1.5,1.5,1.5,2.5,2,1,2,4,2.25,No,No,High
-0584,2019,2,Female,,18,BKK,Urban,Home,841,Wifi,65000,High School,BKK,BKK9,2.25,2.75,2.5,2,2,Mom or Dad,Apart,Master,Master,Mother,Private,Private,860000,2,1.5,2,2,2,0.5,2,2,2.5,2.5,3.5,2.19,No,No,Medium
+0584,2019,2,Female,,18,BKK,Urban,Home,841,Wifo,65000,High School,BKK,BKK9,2.25,2.75,2.5,2,2,Mom or Dad,Apart,Master,Master,Mother,Private,Private,860000,2,1.5,2,2,2,0.5,2,2,2.5,2.5,3.5,2.19,No,No,Medium
 0585,2019,2,mAlE,19,19,BKK,Urban,Home,79,Wifi,15000,High School,BKK,BKK9,2.5,2.5,2.75,2,4,Parents,Together,Bachelor,Bachelor,Father,Private,Private,960000,2.5,3,3,2.5,3,2.5,2.5,2,0.5,3,4,2.73,No,No,Low
 0586,2019,2,MAle,18,0,E,Rural,Apartment,57,WIFI,15000,High School,E,E5,3,3,3,3.5,3,Alone,Together,Doctoral,Doctoral,Father,Public,Freelance,3260000,3,3.5,4,3.5,3.5,3,2.5,3,1.5,4,2.5,3.11,No,No,Medium
-0587,2019,1,Male,18,18,BKK,Urban,Home,19,Wifi,15000,Vocational School,BKK,BKK9,3.5,3.5,3,3,3,Mom or Dad,Apart,Master,Doctoral,Mother,Freelance,Freelance,3630000,3,2.5,3.5,3,3.5,3,3.5,3.5,3,3,4,3.34,No,No,Medium
+0587,2019,1,Male,18,18,BKK,Urban,Home,19,W1fi,15000,Vocational School,BKK,BKK9,3.5,3.5,3,3,3,Mom or Dad,Apart,Master,Doctoral,Mother,Freelance,Freelance,3630000,3,2.5,3.5,3,3.5,3,3.5,3.5,3,3,4,3.34,No,No,Medium
 0588,2019,3,Female,18,3,E,Urban,Apartment,73,WIFI,15000,High School,E,E3,1.75,1.75,1.75,1.75,3,Alone,Together,Master,Master,Mother,Freelance,Private,930000,1.5,0,1,1.5,2,0.5,2,2,1,1.5,3,1.74,No,No,Medium
 0589,2019,3,Male,18,0,NE,Rural,Apartment,15,Mobile,15000,High School,NE,NE2,1.5,1.75,2.75,1.75,3,Roommates,Apart,Doctoral,Doctoral,Mother,Business,Public,700000,1,0.5,0.5,1,1,0,1,1,0,1,2.5,1.42,No,No,Medium
-0590,2019,1,Female,18,3,BKK,Urban,Home,61,Wifi,13000,Vocational School,BKK,BKK2,3.5,4,3,2.25,4,Parents,Together,Bachelor,Master,Father,Freelance,Business,1590000,3,3,2.5,3,3,2.5,3.5,4,3,3,2.5,3.1,No,No,High
+0590,2019,1,Female,18,3,BKK,Urban,Home,61,Wif1,13000,Vocational School,BKK,BKK2,3.5,4,3,2.25,4,Parents,Together,Bachelor,Master,Father,Freelance,Business,1590000,3,3,2.5,3,3,2.5,3.5,4,3,3,2.5,3.1,No,No,High
 0591,2019,3,Female,,3,NE,Rural,Apartment,23,Mobile,10000,High School,BKK,BKK4,2.25,2.5,2.75,2.5,3,Alone,Together,Master,Bachelor,Mother,Freelance,Business,630000,2,2,3,2,2.5,2.5,2,2,0.5,1.5,1.5,2.2,No,No,Low
 0592,2019,1,Male,18,18,BKK,Urban,Home,20,WIFI,14000,Vocational School,BKK,BKK2,2.75,2.5,3.25,2.75,4,Parents,Together,Doctoral,Doctoral,Father,Private,Freelance,1070000,3,2.5,3.5,3,2.5,1.5,3.5,3,2,3,3,2.99,No,No,Medium
 0593,2019,,Female,,18,BKK,Urban,Home,18,Wifi,15000,High School,BKK,BKK2,3.5,2,4,1.5,3,Mom or Dad,Apart,Master,Doctoral,Father,Private,Freelance,3340000,3,2,3,2.5,2,3,3.5,3.5,1.5,4,4,2.85,Yes,No,Medium
